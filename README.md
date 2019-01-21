@@ -1,37 +1,67 @@
-## Welcome to GitHub Pages
+</head>
+		
+			
+<body>
+	<!-- imagen de arriba -->
 
-You can use the [editor on GitHub](https://github.com/iwallC/Iwall/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
+	<header class="back1">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+		<div>
+			<img src="logo.png"/ width="150">
+		</div>
+		<a class="nav1" href="#">Contactarnos</a>
+		
+	</header>
 
-### Markdown
+	<div class="titulo">
+		<h1 class="ct">Gana Dinero!</h1>
+			<div>
+	</div>			
+				<iframe width="300" height="200" src="https://www.youtube.com/embed/5D9_Sh-_GQ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+			</div>
+	<h3 class="desc"> Descripcion</h3>
+		
+		<div>
+			<!-- <video src="https://youtu.be/OqwrnuUs3E0" id="video" a>Andy king</video> -->
+			<!-- video de la pagina -->
+		</div>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+	<hr />
 
-```markdown
-Syntax highlighted code block
+		<h3>Links De Descargas</h3> 
+		<a target="_blanck" href="https://www.youtube.com/watch?v=OqwrnuUs3E0"><img src="https://i2.wp.com/conocimientoshackers.com/wp-content/uploads/2018/10/mediafire-descargar-logo.png?resize=300%2C78&ssl=1" width="300"></a>
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+		<p>
+			<!-- <a href="#">subrayado</a> -->
+		</p>
+		
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+			<!-- Formularios para consultas, comentarios o si me quieren contactar -->
 
-[Link](url) and ![Image](src)
-```
+		<!-- <h2>Comentarios o Consultas</h2>
+		<hr />
+		<br /><br />
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+			<form>
+				<label for="Nombre">Nombre</label>
+				<input type="text" name="Nombre" placeholder="Escribe tu Nombre" id="Nombre" maxlength="31">
+				<br />
+				<label for="correo">Correo</label>
+				<input type="email" id="correo" placeholder="Correo para contactarlo">
+				
+				<br/>
+				<label for="asunto">Asunto</label>
+				<input type="asunto" id="asunto" placeholder="asunto">
+				<br />
+				<label for="descripcion">Descripcion</label>
+				<input type="descripcion" id="descripcion" placeholder="descripcion" size="10">
+				<input type="submit" value="Enviar">
+			</form>
+			<br />
+ -->
+	<footer>iWall Corporation</footer>
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/iwallC/Iwall/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
